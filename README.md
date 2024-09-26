@@ -6,40 +6,17 @@ Should you have any issues running this, please reach out to us ASAP and we'll h
 
 ## Project Setup
 
-First, pull this repository to your machine, and run the below command:
+This repository is a template, meaning that you can use it as a base for your own repository. To do so, you can click on the `Use this template` button in the top part of the screen. Make sure to select `Create a new repository`, and also make sure to set the repo as private.
 
-```sh
-npm install
-```
+Once you've done so, you'll have created your own repo with fresh history under your own account. You can now pull the repository that's under your account, and can get started with the assignment.
 
-This will install all the project's dependencies for you.
+To do so, run `npm install`, which will install all the project's dependencies for you. With that done, you may now run `npm run dev` to get a dev server with HMR going.
 
-**IMPORTANT**: You should also delete the `.git` folder & re-initialize the repo once you've run `npm install`. This will allow you to start with a clean `git` history.
-
-You can do so by running the following commands (Make sure that you're inside the repo when you run these, as they are destructive and involve deletion of git history)
-
-```sh
-# Deletes the .git folder and everything in it
-rm -rf ./.git
-
-# Re-initializes the repository
-git init
-
-# Adds all the current files as they are as the first commit
-git add . && git commit -m "Initialize interview assignment"
-```
-
-You will now have a fresh history, and can start making changes to the project. Once you're done, make sure to upload your solution to Github under your own account in a private repository, and make sure to give your contact person (It'll be in the assignment document you received) permission to view the repository.
+Once you're done with the assignment, please make sure to give your contact person (they should be in the document you receieved regarding this assignment) access rights to your private repository, so that we may view it.
 
 ## Type Support for `.vue` Imports in TS
 
 TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
 
 ### Type-Check, Compile and Minify for Production
 
