@@ -1,8 +1,12 @@
 # Trengo - Frontend Interview Assignment
 
-This template should help get you started developing with Vue 3 with Vite. It contains nothing more than the basic skeleton with which you can start developing the solution to the given assignment. You may modify it if you so wish, but it's not necessary. Tailwind has already been pre-configured for you. Should you wish to add any more packages for whatever reason, feel free to do so.
+This template should help get you started developing with Vue 3 with Vite. It contains nothing more than the basic skeleton with which you can start developing the solution to the given assignment. You may modify it if you see the need to, but note that it's not necessary and the setup we've provided here should be fine for the purposes of this assignment.
 
-Should you have any issues running this, please reach out to us ASAP and we'll help you through it.
+Tailwind has already been pre-configured for you and is ready to use in your templates & components. If you're not familiar with Tailwind, you can consult the [documentation here](https://tailwindcss.com/docs/installation).
+
+Should you wish to add any NPM packages to this project that you feel might help you in developing, feel free to do so, we live that decision up to you.
+
+Should you have any issues running this project, please reach out to us ASAP and we'll help you through it.
 
 ## Project Setup
 
