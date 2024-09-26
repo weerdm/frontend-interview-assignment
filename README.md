@@ -4,7 +4,7 @@ This template should help get you started developing with Vue 3 with Vite. It co
 
 Tailwind has already been pre-configured for you and is ready to use in your templates & components. If you're not familiar with Tailwind, you can consult the [documentation here](https://tailwindcss.com/docs/installation).
 
-Should you wish to add any NPM packages to this project that you feel might help you in developing, feel free to do so, we live that decision up to you.
+Should you wish to add any NPM packages to this project that you feel might help you in developing, feel free to do so, we leave that decision up to you.
 
 Should you have any issues running this project, please reach out to us ASAP and we'll help you through it.
 
