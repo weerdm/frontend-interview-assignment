@@ -16,7 +16,7 @@ Once you've done so, you'll have created your own repo with fresh history under 
 
 To do so, run `npm install`, which will install all the project's dependencies for you. With that done, you may now run `npm run dev` to get a dev server with HMR going.
 
-Once you're done with the assignment, please make sure to give your contact person (they should be in the document you receieved regarding this assignment) access rights to your private repository, so that we may view it.
+Once you're done with the assignment, please make sure to give your contact person (they should be in the document you received regarding this assignment) access rights to your private repository, so that we may view it.
 
 ## Type Support for `.vue` Imports in TS
 
